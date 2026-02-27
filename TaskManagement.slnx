@@ -10,5 +10,7 @@
     <Project Path="src/TaskManagement.Domain/TaskManagement.Domain.csproj" />
     <Project Path="src/TaskManagement.Infrastructure/TaskManagement.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/test/" />
+  <Folder Name="/test/">
+    <Project Path="tests/TaskManagement.Tests/TaskManagement.Tests.csproj" Id="dd49b4e9-32a1-4c91-ac70-3f835e166328" />
+  </Folder>
 </Solution>
