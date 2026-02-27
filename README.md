@@ -51,6 +51,8 @@ dotnet run --project src/TaskManagement.Api
 The API starts on `https://localhost:7xxx` / `http://localhost:5xxx` (ports printed at startup).  
 OpenAPI schema is available at `/openapi/v1.json` in the **Development** environment.
 
+You can test this API in the **Development** environment at `/scalar`
+
 ---
 
 ## Endpoints
